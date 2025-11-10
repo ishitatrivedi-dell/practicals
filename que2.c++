@@ -1,7 +1,3 @@
-// merge sort code 
-// input : unsorted array 
-// output : sorted array
-
 #include <iostream>
 #include <vector>
 using namespace std;
