@@ -1,0 +1,108 @@
+export const FoodMenuData = {
+  "foods": [
+    {
+      "id": 1,
+      "name": "Margherita Pizza",
+      "category": "Italian",
+      "type": "Vegetarian",
+      "ingredients": ["Dough", "Tomato Sauce", "Mozzarella Cheese", "Basil"],
+      "calories": 300,
+      "price": 250,
+      "currency": "INR",
+      "rating": 4.5,
+      "available": true,
+      "image": "https://example.com/images/margherita_pizza.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Butter Chicken",
+      "category": "Indian",
+      "type": "Non-Vegetarian",
+      "ingredients": ["Chicken", "Butter", "Tomato Gravy", "Cream", "Spices"],
+      "calories": 480,
+      "price": 320,
+      "currency": "INR",
+      "rating": 4.8,
+      "available": true,
+      "image": "https://example.com/images/butter_chicken.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Veg Biryani",
+      "category": "Indian",
+      "type": "Vegetarian",
+      "ingredients": ["Rice", "Vegetables", "Spices", "Ghee", "Yogurt"],
+      "calories": 420,
+      "price": 200,
+      "currency": "INR",
+      "rating": 4.3,
+      "available": true,
+      "image": "https://example.com/images/veg_biryani.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Caesar Salad",
+      "category": "Continental",
+      "type": "Vegetarian",
+      "ingredients": ["Lettuce", "Croutons", "Parmesan", "Caesar Dressing"],
+      "calories": 180,
+      "price": 180,
+      "currency": "INR",
+      "rating": 4.1,
+      "available": true,
+      "image": "https://example.com/images/caesar_salad.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Grilled Chicken Sandwich",
+      "category": "Fast Food",
+      "type": "Non-Vegetarian",
+      "ingredients": ["Chicken Breast", "Bread", "Lettuce", "Cheese", "Mayo"],
+      "calories": 350,
+      "price": 220,
+      "currency": "INR",
+      "rating": 4.4,
+      "available": false,
+      "image": "https://example.com/images/grilled_chicken_sandwich.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Chocolate Brownie",
+      "category": "Dessert",
+      "type": "Vegetarian",
+      "ingredients": ["Flour", "Cocoa", "Butter", "Sugar", "Eggs"],
+      "calories": 250,
+      "price": 150,
+      "currency": "INR",
+      "rating": 4.9,
+      "available": true,
+      "image": "https://example.com/images/chocolate_brownie.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Masala Dosa",
+      "category": "South Indian",
+      "type": "Vegetarian",
+      "ingredients": ["Rice Batter", "Potato Masala", "Coconut Chutney", "Sambar"],
+      "calories": 400,
+      "price": 120,
+      "currency": "INR",
+      "rating": 4.6,
+      "available": true,
+      "image": "https://example.com/images/masala_dosa.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Sushi Roll",
+      "category": "Japanese",
+      "type": "Non-Vegetarian",
+      "ingredients": ["Rice", "Seaweed", "Salmon", "Avocado", "Soy Sauce"],
+      "calories": 270,
+      "price": 500,
+      "currency": "INR",
+      "rating": 4.7,
+      "available": true,
+      "image": "https://example.com/images/sushi_roll.jpg"
+    }
+  ]
+}
